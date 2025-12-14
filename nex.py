@@ -19,7 +19,7 @@ logging.basicConfig(
 logger = logging.getLogger(__name__)
 
 # Configuration
-BOT_TOKEN ="7216255079:AAEWV52uMfYlTY_UAmuJ37Yi-VrOasyGYKY"
+BOT_TOKEN ="7216255079:AAESgFa8k5WbxYxrHLFxlSMcZ05AH0Q6BaE"
 API_URL = "http://206.189.214.238:8080/search"
 GROUP_ID = -1002740434382
 ADMIN_CHAT_ID = 8005797405
